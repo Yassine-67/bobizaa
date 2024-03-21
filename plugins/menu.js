@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: '➚ ிEssaouidi ⎙ ✓ BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/ceb695f9b11c892bbeafb.mp4',
+thumbnailUrl: 'https://telegra.ph/file/3cc9a495b49a911d7020e.jpg',
 sourceUrl: 'https://instagram.com/essaouidi_yassine',
 mediaType: 1,
 renderLargerThumbnail: true
