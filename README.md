@@ -7,16 +7,7 @@ Thank you to
 ▇ruhend2001 ♥
 ▇gata ♥
 ▇and others 😁
-لا أتقن أي لغة برمجة لذا ان اخطأت فلا عذر لي لا نزال في طريق التعلم ... رغم ذلك أهوى التعديل على السكريبتات ههه ♥ اتمنى انك استفذت 
-اي ملاحطة او مساعدة انا هنا
 
-https://instagram.com/noureddine_ouafy
+۞إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ 
 
-get session code from this link
-
-https://replit.com/@bobiztestbot/bobiza-qrcode
-
-Im not a dev bot just copy and past 😆 i steel leaning but it's haaaard 😸
- 
-heroku tutorial video :
-https://youtu.be/ypyLVUpK-zc?si=_pRpNkABjo-4_eGG
+https://instagram.com/essaouidi_yassine
