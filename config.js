@@ -10,23 +10,23 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['212717457920', 'bobiza', true],
+  ['212648753294', '➚ ிEssaouidi ⎙ ✓', true],
 
-  ['212717457920','bobiza', true],
-  ['212717457920'],
-  ['212717457920']
+  ['212648753294','➚ ிEssaouidi ⎙ ✓', true],
+  ['212648753294'],
+  ['212648753294']
 ];
 
-global.suittag = ['212717457920'];
-global.prems = ['212717457920'];
+global.suittag = ['212648753294'];
+global.prems = ['212648753294'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.packname = '➚ ிEssaouidi ⎙ ✓ bot';
+global.author = '➚ ிEssaouidi ⎙ ✓';
+global.wm = '➚ ிEssaouidi ⎙ ✓';
+global.titulowm = '➚ ிEssaouidi ⎙ ✓';
+global.titulowm2 = `➚ ிEssaouidi ⎙ ✓`
+global.igfg = '➚ ிEssaouidi ⎙ ✓';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/essaouidi_yassine';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
@@ -46,14 +46,14 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
-global.mysticbot = 'https://instagram.com/noureddine_ouafy';
+global.gt = 'ESSAOUIDI';
+global.mysticbot = 'The ESSAOUIDI';
+global.md = 'https://instagram.com/essaouidi_yassine';
+global.mysticbot = 'https://instagram.com/essaouidi_yassine';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '212648753294';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
